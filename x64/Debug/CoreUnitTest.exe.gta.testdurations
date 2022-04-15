@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\jeffr\source\repos\FinalProject\x64\Debug\CoreUnitTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="StringUtilsTests.startsWithNegativeTest" Duration="1" />
+    <TestDuration Test="StringUtilsTests.startsWithPostiveTest" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

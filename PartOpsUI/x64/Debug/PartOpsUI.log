@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  PartsUtilsUI.cpp
+C:\Users\jeffr\source\repos\FinalProject\AppPartOps\PartOps.h(20,15): warning C4251: 'Application::PartFile::m_partFilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Application::PartFile'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating Code...
+     Creating library C:\Users\jeffr\source\repos\FinalProject\x64\Debug\UIPartOps.lib and object C:\Users\jeffr\source\repos\FinalProject\x64\Debug\UIPartOps.exp
+  PartOpsUI.vcxproj -> C:\Users\jeffr\source\repos\FinalProject\x64\Debug\UIPartOps.dll
